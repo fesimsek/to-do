@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Adsız Proje</name>
+	<gx:CascadingStyle kml:id="__managed_style_2AC11B9A971C414DCB06">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_13FC0FD1AB1C414DCB06">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0028FF13491C414DCB06">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13FC0FD1AB1C414DCB06</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2AC11B9A971C414DCB06</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="02CAC4D7531C414DCB05">
+		<name>parsel 1</name>
+		<LookAt>
+			<longitude>27.17234769390796</longitude>
+			<latitude>38.40558900744787</latitude>
+			<altitude>207.0938287289837</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000790997795</gx:fovy>
+			<range>1000.00114008275</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0028FF13491C414DCB06</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						27.16962656790783,38.40664174835876,203.4600260435614 27.17031502990766,38.40467915704448,195.5845084565089 27.17306296793866,38.40536746839898,207.0913799499717 27.17212850203978,38.40690674975814,201.5870932710119 27.16962656790783,38.40664174835876,203.4600260435614 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="00B476B5E61C414E0D7F">
+		<name>parsel2</name>
+		<LookAt>
+			<longitude>27.17234769390796</longitude>
+			<latitude>38.40558900744787</latitude>
+			<altitude>207.0938287289837</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000790997795</gx:fovy>
+			<range>1000.00114008275</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0028FF13491C414DCB06</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						27.17306296793866,38.40536746839898,207.0913799499717 27.17400409125446,38.40789798180779,202.3590389188716 27.17212163983825,38.40692829220215,201.5326673008846 27.17306296793866,38.40536746839898,207.0913799499717 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
